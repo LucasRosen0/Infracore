@@ -1,0 +1,19 @@
+# INFRACORE
+
+InfraCore é um toolkit de suporte técnico para automação de tarefas de diagnóstico, rede e manutenção em Windows.
+
+## Funcionalidades
+
+- Diagnóstico de rede (DNS, IP, ping, reset de Winsock)
+- Informações do sistema
+- Monitoramento de memória e disco
+- Limpeza de arquivos temporários
+- Ferramentas administrativas rápidas
+- Exportação de diagnóstico completo
+
+## Execução
+
+Abra o PowerShell como administrador e execute:
+
+```powershell
+.\infracore.ps1
